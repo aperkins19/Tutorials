@@ -1,14 +1,15 @@
 # Planning beginner git tutorial
 
-1. Why git is useful:
-
-2. How git works:
-
 3. Install Git
 
 4. Local repository
 
 5. Remote repository
+ - Look around github
+
+  * look at my repositories
+  * look at other peoples
+
 
 6. How to gittify your project
   + Git init
@@ -24,9 +25,7 @@
 7. How to work with remote repositories e.g. github.
   + Saving and commiting a current project
 
-   - Look around github
-
-   - Make repository
+   - Make a github repository
 
    - Go to local directory and check your git remote status.
       * git remote -v

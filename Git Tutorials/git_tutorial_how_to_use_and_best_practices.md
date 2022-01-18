@@ -1,47 +1,29 @@
 # Planning beginner git tutorial
 
-1. Why git is useful:
+Using a placeholder project.
 
-2. How git works:
+## How to use:
 
-3. Install Git
+1. gittify and push to github.
 
-4. Local repository
+2. Make some changes, add, commit and push
 
-5. Remote repository
+3. What if I want to try something out but I don't want to ruin my code.
+  - copy the folder. make the change and if you want to keep it, copy it back and push
+  - don't bother with forks and other branches if you can help it. this is advanced gitting and generally you won't need to use them.
 
-6. How to gittify your project
-  + Git init
-  + How to stage your changes
-  + How to check the stage
-  + How to remote a file from the stage
-  + Check stage
-  + Add all
-  + Remove all
-  + Add one back
-  + Commit with message. It's very important to add messages.
+4. You can if you like use a graphical program to track your git projects
 
-7. How to work with remote repositories e.g. github.
-  + Saving and commiting a current project
+## Best Practices
 
-   - Look around github
+These are the things that turn your git experiance from "OMG this is hard, obscure and complex" and you don't use it again to "OMG this is the best thing ever, why did no one tell me about this."
 
-   - Make repository
+Work in a way where future you will thank you.
 
-   - Go to local directory and check your git remote status.
-      * git remote -v
+1. Always use commit messages. Even for small stuff.
 
-   - connect local git repository to the github repository.
-      * git remote add origin https://github....
+2. Make and maintain an README allows future you and other people to actually use your code. And make it as dead simple as possible.
 
-    - Go to local directory and check your git remote status.
-       * git remote -v
+3. If you like, keep a text file of git commands, make it easy for yourself - you'll thank yourself.
 
-    - git push -u origin master
-
-  + Cloning someone else's project.
-    - make a local repository
-    - Cloning
-    - checking the creds
-      * git config -l
-      * git remote -v
+4. Keep a to do list of changes / improvements that you want to make to your project and tick them off as you go. Helps you walk away from a project and come back to it later.
