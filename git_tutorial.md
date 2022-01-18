@@ -37,7 +37,7 @@
     - Go to local directory and check your git remote status.
        * git remote -v
 
-    - git push
+    - git push -u origin master
 
   + Cloning someone else's project.
     - make a local repository
