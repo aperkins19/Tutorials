@@ -38,9 +38,17 @@
 
     - git push -u origin master
 
-  + Cloning someone else's project.
+  8. Cloning someone else's project.
     - make a local repository
     - Cloning
     - checking the creds
       * git config -l
       * git remote -v
+
+9. Working with old versions.
+  - the head
+  - change logs
+  - move between two versions and back
+  - checking what version you're on
+  - visualising the version chain.
+  - comparing two versions
